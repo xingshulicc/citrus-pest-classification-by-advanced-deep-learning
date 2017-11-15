@@ -9,7 +9,7 @@ if you request the image data please send email to me:
 
 email address: xingshuli600@gmail.com
 
-2. Four tyes of CNN:
+2. Four types of CNN:
 
 VGG-16, ResNet-50, Inception-v3 with Identity mapping (Inception-ResNet-V3), Xception
 
