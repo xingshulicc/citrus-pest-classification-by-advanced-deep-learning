@@ -11,6 +11,7 @@ Anaconda --4.1.0
 Keras --2.0.7
 Tensorflow--1.3 (GPU GTX1080Ti)
 4. How to arrange Dataset:
+
 |Dataset
 
   |train
