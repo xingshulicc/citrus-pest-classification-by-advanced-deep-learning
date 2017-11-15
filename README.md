@@ -12,12 +12,20 @@ Keras --2.0.7
 Tensorflow--1.3 (GPU GTX1080Ti)
 4. How to arrange Dataset:
 |Dataset
+
   |train
+  
 ...  |pest_1
+
 ......
+
 ...  |pest_10
+
   |validate
+  
 ...  |pest_1
+
 ......
+
 ...  |pest_10
 
