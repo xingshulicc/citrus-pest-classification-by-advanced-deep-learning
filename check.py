@@ -38,6 +38,7 @@ def generate_array(path, shape = (200, 200), extension = '.jpeg'):
             img = img.resize(shape)
      #load all image to numpy and convert to (None, 200, 200, 3)       
             img = image.img_to_array(img)
+        #the preprocessing of each test image in model is img /=255 so we should also add this operation here
             img/=255
             img = img[np.newaxis, :]
             try:
@@ -90,19 +91,4 @@ with open('./misclassify.txt', 'w') as f:
 
     
     
-    
-    
-
-
-                
-            
-    
-    
-            
-            
-            
-            
-            
-            
-            
-    
+   
