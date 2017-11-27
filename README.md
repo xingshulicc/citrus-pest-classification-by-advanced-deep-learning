@@ -22,6 +22,7 @@ Keras --2.0.7
 Tensorflow--1.3 (GPU GTX1080Ti)
 
 The check.py file is used to check the misclassification images and output real_index and target_index
+
 Note: the preprocessing of each test images is img/=255
 
 
