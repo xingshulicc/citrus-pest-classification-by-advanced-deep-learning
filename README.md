@@ -26,6 +26,10 @@ The check.py file is used to check the misclassification images and output real_
 Note: the preprocessing of each test images is img/=255
 
 
+4. An example of wrong images:
+
+<img src="http://raw.github.com/xingshulicc/citrus-pest-classification-by-advanced-deep-learning/master/wrong_images/Explain.png" width="300" height="300" />
+
 
 
 
